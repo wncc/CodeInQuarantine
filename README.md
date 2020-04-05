@@ -1,53 +1,26 @@
-# Week 1 | Python
+<h1 style="text-align: center">:computer: Code in Quarantine :computer:</h1>
 
-## Introduction 
-Python is one of the widely used programming languages in the world. Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built-in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms and can be freely distributed.
+<h2 style="text-align: center">By the Web & Coding Club IIT Bombay</h2>
 
+Greetings from the Web & Coding Club!
 
-## Resources
+As promised, we are back to help you begin your coding journey! WnCC proudly presents __Code in Quarantine__ - your first step towards getting started with programming. Starting this Monday, over a span of 8 weeks, we’ll provide resources for you to get started with 8 diverse topics.
 
-### [I am new to Programming](https://www.wncc-iitb.org/wiki/index.php/Python_for_Beginners) 
-This is ideal for people who have either almost never coded in their lives, or were intimidated by CS101. Starting from what variables are, we'll see how Python can be used to automate many repititive tasks in everyday life.
+Here's the list of topics being covered:
+- [Week 1 - Python](./Week_1_Python/README.md)
+- Week 2 - Competitive Programming
+- Week 3 - Machine Learning
+- Week 4 - Git/GitHub
+- Week 5 - FrontEnd Dev
+- Week 6 - BackEnd Dev
+- Week 7 - Advanced FrontEnd Dev
+- Week 8 - Blockchain
 
+Every Monday, a tutorial containing links to some beginner-friendly resources will be shared, along with a task to assess your learning. You can freely discuss your doubts while understanding the tutorial or solving the task on our Telegram group.
 
-## Tasks
+Join our [Telegram group](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ) for discussing your doubts.
 
-### 1. Weather Data
+***
 
-The first task is to report the average temperature and humidity of some cities over a week.
+<p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
 
-The following information is given to help you:
-
-In a file named `input.txt`, you have a list of n cities. Create the file yourself, and list any nummber of cities you want the data for.
-You can use this [Website](https://www.wunderground.com) to scrape the required information, i.e. *Temperature* and *Humidity* of the cities given in `input.txt`.  
-
-Scraping is essentially pulling text from an HTML page, programmatically. One can extract the HTML code directly, and then parse it for certain strings. In this case, the HTML code would contain the weather of city in question. One can store it as a string, and use normal string methods to extract useful information from it.  The wiki link below contains a how-to guide to scraping, along with any additional information you may need for the task.
-
-
-Alternatively, you could use an Application Program Interface (API). This would essentially mean that you get the job done for you. You send a normal HTTP request to an API, and it returns data corresponding to what you asked for. This [Website](https://openweathermap.org/api) provides an API for the task.
-
-Check [this](http://wncc-iitb.org/wiki/index.php/Web_Scraping) out for an overview and resources for Web Scraping.
-
-
-##### Sample Input (Contents of input.txt)
-London                                                                                              
-Paris                                                                                                                                                           
-Berlin                                                                                              
-Frankfurt
-
-##### Sample Output (Could either be a new file or terminal)
-London      13       80%                         
-Paris       20        78%     
-Berlin      17        83%                                                                                                              
-Frankfurt   16        81%
-
-
-### 2. Fetch My Rank
-
-A Physics Professor has just uploaded a sheet with marks of the 1000 freshmen who did his course. All the students want to know their ranks so that they can predict their grade. It’s very tedious to search for a given roll number and calculate their rank. Let's automate this!
-
-Your task is to create a script which keeps running and fetches the rank of a input roll number from the given `.csv` file. The valid range of roll numbers is from 1-1000. All are integers with no missing roll numbers. The script should keep running till the user types *`stop`*.
-The script should do something like this - 
-![](https://github.com/wncc/CodeInQuarantine/blob/master/script.png "script")
-
-[Here](https://github.com/wncc/CodeInQuarantine/blob/master/marksheet.csv) is the `.csv` file containing the required data.

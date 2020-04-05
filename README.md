@@ -1,4 +1,4 @@
-# Code in Quarantine :computer:
+# Code in Quarantine 
 
 ## By the Web & Coding Club IIT Bombay
 

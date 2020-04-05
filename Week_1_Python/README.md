@@ -56,3 +56,8 @@ The script should do something like this -
 ![](./script.png "script")
 
 [Here](https://github.com/wncc/CodeInQuarantine/blob/master/marksheet.csv) is the `.csv` file containing the required data.
+
+
+### 3. Telegram Bot
+
+If you have joined our [Telegram](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ) group, surely, you too would have been annoyed by the repeated notifications/messages of new people joining the group. So we give you the task of coding a Telegram Bot that automatically removes messages stating that a new person has joined the group, given it has admin privilages. 

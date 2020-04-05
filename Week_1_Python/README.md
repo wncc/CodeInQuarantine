@@ -58,8 +58,63 @@ The script should do something like this -
 [Here](https://github.com/wncc/CodeInQuarantine/blob/master/marksheet.csv) is the `.csv` file containing the required data.
 
 
-### 3. Telegram Bot
+### 3. Understanding Graphs
+
+A graph is a pictorial representation of a set of objects where some pairs of objects are connected by links. The interconnected objects are represented by points termed as vertices, and the links that connect the vertices are called edges.
+In a graph each of the edges can have a weight and an arrow depicting the direction.
+![](./graph.png "graph")
+
+*In figure* :
+
+- Circles represent vertices. Each vertex has a name (0,1, 2,3,4)
+- Arrows between vertices represent edges. (Edge between 1 --> 3)
+- Each edge has a weight associated with it. (Edge between 1--> 3 has a weight =3)
+
+**Input**:
+
+Input to the task will be a graph in the following format: 
+Connections: [[1, 2], [3], [1, 3, 4], [], [3]]
+
+Weights: [[5, 3], [3], [2, 5, 6], [], [1]]
+
+For the above format input example will be: 
+
+5  
+2  
+1  5  
+2  3  
+1  
+3  3  
+3  
+1  2  
+3  5  
+4  6  
+0  
+1  
+3  1  
+
+First line represents the number of vertex.    
+Next line shows the number of connections to 0th  vertex (i.e. 2)  
+Next 2 line shows the connected vertex and weight of edge to 0th vertex to connected vertex and so on.
+
+To understand more about graphs, we'll implement **2 algorithms**:
+
+#### Algorithm 1: Dijkstra's Shortest Path 
+Given a source vertex, say vertex 0 you need to find the shortest path (the path with least weight) to all other vertices in the graph.   
+**Output** : The minimum distance of each vertex from the given source vertex.
+
+Refer to this [pseudocode](https://brilliant.org/wiki/dijkstras-short-path-finder/) to learn about the algorithm
+
+#### Algorithm 2 : Breadth First Search (BFS)
+Breadth First Search (BFS) algorithm traverses a graph in a breadthward motion and uses a queue to remember to get the next vertex to start a search, when a dead end occurs in any iteration.
+
+**Output**: Print the breadth first traversal of the graph given in problem 1.   
+Example: BFS for the example graph will be 0 2 1 3 4  
+
+Refer to these sites to learn more about BFS - [HackerEarth](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/), [TutorialsPoint](https://www.tutorialspoint.com/data_structures_algorithms/breadth_first_traversal.htm)
+
+
+### 4. Telegram Bot
 
 If you have joined our [Telegram](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ) group, surely, you too would have been annoyed by the repeated notifications/messages of new people joining the group. So we give you the task of coding a Telegram Bot that automatically removes messages stating that a new person has joined the group, given it has admin privilages. 
 
-### 4. 

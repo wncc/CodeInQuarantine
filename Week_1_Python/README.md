@@ -10,7 +10,8 @@ Python is one of the widely used programming languages in the world. Python is a
    _This is ideal for people who have either almost never coded in their lives, or were intimidated by CS101. Starting from what variables are, we'll see how Python can be used to automate many repetitive tasks in everyday life._
 - ### [I am an intermediate Python developer - How do I start using packages for real-life use cases](https://www.wncc-iitb.org/wiki/index.php/Intermediate_Python_Programming)
   _Once familiar with the basic concepts of Python, this tutorial will help you consolidate them & explore a wide variety of packages & modules for different use cases._
-
+- ### [I am an advance Python developer - How do I learn advance concepts in Python](https://www.wncc-iitb.org/wiki/index.php/Advance_Python_Programming)
+  _If you think you are quite comfortable with Python, this tutorial will help you to extend your knowlegde base by exploring some advance concepts like threading, socket programming, etc._
 
 
 ## Tasks

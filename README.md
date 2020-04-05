@@ -6,22 +6,20 @@ Python is one of the widely used programming languages in the world. Python is a
 
 ## Resources
 
-### [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/) 
-This is ideal for people who want to see some cool applications of Python to do repetitive tasks. It consists of mini projects after every chapter to help you understand the concepts better.
-
-### [Learn Python Programming](https://www.programiz.com/python-programming)
-This is a pretty long tutorial and consists of almost every major concept you can think of. Also, it comes with an in-site Python interpreter so you can check your code there itself.
+### [I am new to Programming](https://www.wncc-iitb.org/wiki/index.php/Python_for_Beginners) 
+This is ideal for people who have either almost never coded in their lives, or were intimidated by CS101. Starting from what variables are, we'll see how Python can be used to automate many repititive tasks in everyday life.
 
 
 ## Tasks
 
 ### 1. Weather Data
-Your task is to report the average temperature and humidity of each of those cities over a week.
+
+The first task is to report the average temperature and humidity of some cities over a week.
 
 The following information is given to help you:
 
-In a file named input.txt, you have a list of n cities.
-You can use this [Website](https://www.wunderground.com) to scrape the required information.
+In a file named `input.txt`, you have a list of n cities. Create the file yourself, and list any nummber of cities you want the data for.
+You can use this [Website](https://www.wunderground.com) to scrape the required information, i.e. *Temperature* and *Humidity* of the cities given in `input.txt`.  
 
 Scraping is essentially pulling text from an HTML page, programmatically. One can extract the HTML code directly, and then parse it for certain strings. In this case, the HTML code would contain the weather of city in question. One can store it as a string, and use normal string methods to extract useful information from it.  The wiki link below contains a how-to guide to scraping, along with any additional information you may need for the task.
 
@@ -32,16 +30,24 @@ Check [this](http://wncc-iitb.org/wiki/index.php/Web_Scraping) out for an overvi
 
 
 ##### Sample Input (Contents of input.txt)
-London
-Paris
-Berlin
+London                                                                                              
+Paris                                                                                                                                                           
+Berlin                                                                                              
 Frankfurt
 
 ##### Sample Output (Could either be a new file or terminal)
-London      13       80%
+London      13       80%                         
 Paris       20        78%     
-Berlin      17        83%
+Berlin      17        83%                                                                                                              
 Frankfurt   16        81%
 
 
- 
+### 2. Fetch My Rank
+
+A Physics Professor has just uploaded a sheet with marks of the 1000 freshmen who did his course. All the students want to know their ranks so that they can predict their grade. It’s very tedious to search for a given roll number and calculate their rank. Let's automate this!
+
+Your task is to create a script which keeps running and fetches the rank of a input roll number from the given `.csv` file. The valid range of roll numbers is from 1-1000. All are integers with no missing roll numbers. The script should keep running till the user types *`stop`*.
+The script should do something like this - 
+![](https://github.com/wncc/CodeInQuarantine/blob/master/script.png "script")
+
+[Here](https://github.com/wncc/CodeInQuarantine/blob/master/marksheet.csv) is the `.csv` file containing the required data.

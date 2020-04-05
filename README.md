@@ -1,6 +1,6 @@
-<h1 style="text-align: center">:computer: Code in Quarantine :computer:</h1>
+# Code in Quarantine :computer:
 
-<h2 style="text-align: center">By the Web & Coding Club IIT Bombay</h2>
+## By the Web & Coding Club IIT Bombay
 
 Greetings from the Web & Coding Club!
 

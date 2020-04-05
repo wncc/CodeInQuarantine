@@ -52,6 +52,7 @@ A Physics Professor has just uploaded a sheet with marks of the 1000 freshmen wh
 
 Your task is to create a script which keeps running and fetches the rank of a input roll number from the given `.csv` file. The valid range of roll numbers is from 1-1000. All are integers with no missing roll numbers. The script should keep running till the user types *`stop`*.
 The script should do something like this - 
-![](https://github.com/wncc/CodeInQuarantine/blob/master/script.png "script")
+
+![](./script.png "script")
 
 [Here](https://github.com/wncc/CodeInQuarantine/blob/master/marksheet.csv) is the `.csv` file containing the required data.

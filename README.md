@@ -4,7 +4,7 @@
 
 Greetings from the Web & Coding Club!
 
-As promised, we are back to help you begin your coding journey! WnCC proudly presents __Code in Quarantine__ - your first step towards getting started with programming. Starting this Monday, over a span of 8 weeks, we’ll provide resources for you to get started with 8 diverse topics.
+As promised, we are back to help you begin your coding journey! WnCC proudly presents __Code in Quarantine__ - your first step towards getting started with programming. Starting from 6th April, over a span of 8 weeks, we'll provide resources for you to get started with 8 diverse topics.
 
 Here's the list of topics being covered:
 - [Week 1 - Python](./Week_1_Python/README.md)

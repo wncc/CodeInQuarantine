@@ -116,5 +116,5 @@ Refer to these sites to learn more about BFS - [HackerEarth](https://www.hackere
 
 ### 4. Telegram Bot
 
-If you have joined our [Telegram](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ) group, surely, you too would have been annoyed by the repeated notifications/messages of new people joining the group. So we give you the task of coding a Telegram Bot that automatically removes messages stating that a new person has joined the group, given it has admin privilages. Going through [this documentation](https://python-telegram-bot.readthedocs.io/en/stable/) will certainly be useful.
+If you have joined our [Telegram](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ) group, surely, you too would have been annoyed by the repeated notifications/messages of new people joining the group. So we give you the task of coding a Telegram Bot that automatically removes messages stating that a new person has joined the group, given it has admin privilages. Going through [this official documentation](https://python-telegram-bot.readthedocs.io/en/stable/) will certainly be useful. You might find this well documented [website](https://github.com/python-telegram-bot/python-telegram-bot/wiki/Code-snippets) more friendly and easy to understand if you are unable to comprehend the official documentation.
 

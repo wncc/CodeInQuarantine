@@ -10,7 +10,7 @@ Python is one of the widely used programming languages in the world. Python is a
    _This is ideal for people who have either almost never coded in their lives, or were intimidated by CS101. Starting from what variables are, we'll see how Python can be used to automate many repetitive tasks in everyday life._
 - ### [I am an intermediate Python developer - How do I start using packages for real-life use cases](https://www.wncc-iitb.org/wiki/index.php/Intermediate_Python_Programming)
   _Once familiar with the basic concepts of Python, this tutorial will help you consolidate them & explore a wide variety of packages & modules for different use cases._
-- ### [I am an advance Python developer - How do I learn advance concepts in Python](https://www.wncc-iitb.org/wiki/index.php/Advance_Python_Programming)
+- ### [I am an advanced Python developer - How do I learn deeper concepts in Python](https://www.wncc-iitb.org/wiki/index.php/Advance_Python_Programming)
   _If you think you are quite comfortable with Python, this tutorial will help you to extend your knowlegde base by exploring some advance concepts like threading, socket programming, etc._
 
 
@@ -34,16 +34,16 @@ Check [this](http://wncc-iitb.org/wiki/index.php/Web_Scraping) out for an overvi
 
 
 ##### Sample Input (Contents of input.txt)
-London                                                                                              
-Paris                                                                                                                                                           
-Berlin                                                                                              
-Frankfurt
+>London                                                                                              
+>Paris                                                                                                                                             
+>Berlin                                                                                              
+>Frankfurt
 
 ##### Sample Output (Could either be a new file or terminal)
-London      13       80%                         
-Paris       20        78%     
-Berlin      17        83%                                                                                                              
-Frankfurt   16        81%
+>London      13        80%                         
+>Paris       20        78%     
+>Berlin      17        83%                                                                                                              
+>Frankfurt   16        81%
 
 
 ### 2. Fetch My Rank
@@ -79,19 +79,19 @@ Weights: [[5, 3], [3], [2, 5, 6], [], [1]]
 
 For the above format input example will be: 
 
-5  
-2  
-1  5  
-2  3  
-1  
-3  3  
-3  
-1  2  
-3  5  
-4  6  
-0  
-1  
-3  1  
+>5  
+>2  
+>1  5  
+>2  3  
+>1  
+>3  3  
+>3  
+>1  2  
+>3  5  
+>4  6  
+>0  
+>1  
+>3  1  
 
 First line represents the number of vertex.    
 Next line shows the number of connections to 0th  vertex (i.e. 2)  
@@ -116,5 +116,5 @@ Refer to these sites to learn more about BFS - [HackerEarth](https://www.hackere
 
 ### 4. Telegram Bot
 
-If you have joined our [Telegram](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ) group, surely, you too would have been annoyed by the repeated notifications/messages of new people joining the group. So we give you the task of coding a Telegram Bot that automatically removes messages stating that a new person has joined the group, given it has admin privilages. 
+If you have joined our [Telegram](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ) group, surely, you too would have been annoyed by the repeated notifications/messages of new people joining the group. So we give you the task of coding a Telegram Bot that automatically removes messages stating that a new person has joined the group, given it has admin privilages. Going through [this documentation](https://python-telegram-bot.readthedocs.io/en/stable/) will certainly be useful.
 

@@ -103,7 +103,8 @@ To understand more about graphs, we'll implement **2 algorithms**:
 Given a source vertex, say vertex 0 you need to find the shortest path (the path with least weight) to all other vertices in the graph.   
 **Output** : The minimum distance of each vertex from the given source vertex.
 
-Refer to this [pseudocode](https://brilliant.org/wiki/dijkstras-short-path-finder/) to learn about the algorithm
+Refer to this [pseudocode](https://brilliant.org/wiki/dijkstras-short-path-finder/) to learn about the algorithm.     
+Hint: Use `math.inf` to initialize distances.
 
 #### Algorithm 2 : Breadth First Search (BFS)
 Breadth First Search (BFS) algorithm traverses a graph in a breadthward motion and uses a queue to remember to get the next vertex to start a search, when a dead end occurs in any iteration.

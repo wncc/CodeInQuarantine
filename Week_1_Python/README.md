@@ -55,7 +55,7 @@ The script should do something like this -
 
 ![](./script.png "script")
 
-[Here](./marksheet.csv) is the `.csv` file containing the required data.
+This is just an example. [Here](./marksheet.csv) is the `.csv` file containing the required data to be used for this task. 
 
 
 ### 3. Understanding Graphs

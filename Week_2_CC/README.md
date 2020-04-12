@@ -42,6 +42,9 @@ ___Note:__ Most of the problems have editorials or tutorials , also you could re
     - __Problem:__ [Game of Bullets](https://www.codechef.com/problems/BULLETS) (Read about [Nim game](https://plus.maths.org/content/play-win-nim))
     - __Problem:__ [Black And White Cells](https://www.codechef.com/LTIME30/problems/BWCELL)
 
+- Binary Search
+    - __Problem:__ [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/)
+    - __Problem:__ [Multiplication Table](https://codeforces.com/contest/448/problem/D)
 - Strings
     - __Tutorial:__ Read about [prefix and suffix functions](https://www.geeksforgeeks.org/match_results-prefix-and-suffix-in-cpp/) and their uses
     - __Problem:__ [Make Palindrome](https://www.codechef.com/LTIME27/problems/MAKPALIN)

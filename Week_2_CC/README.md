@@ -48,7 +48,7 @@ ___Note:__ Most of the problems have editorials or tutorials , also you could re
 
 - Stacks
     - __Problem:__ [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
-    _(Try a O(n) solution) [make and account to submit]_
+    _(Try a O(n) solution)_
 
 - Greedy Algorithms
 
@@ -69,10 +69,12 @@ __Intermediate Problems__
 - Djikstra's Algorithm
     - __Problem:__ [AND on Graph](https://www.codechef.com/KGP18ROL/problems/GRAPHAND)
 
+- Convex Hull Trick:
+    - __Tutorial:__ [A Primer on the Convex Hull Trick](https://wcipeg.com/wiki/Convex_hull_trick)
+    - __Problem:__ [Hit the Coconuts](https://www.codechef.com/JULY19A/problems/CCC)
 
 - Convex Hull
-    - __Tutorial:__ [A Primer on the Convex Hull Trick](https://wcipeg.com/wiki/Convex_hull_trick)
-    - __Discussion:__ [A discussion on the Coconut Hits Problem](https://discuss.codechef.com/t/ccc-editorial/29902)
+    - __Tutorial:__ [Graham's Scan for Convex Hull Construction](https://cp-algorithms.com/geometry/grahams-scan-convex-hull.html)
     - __Problem:__ [Save The Trees](https://www.codechef.com/ACM15KOL/problems/KOL1509) _(Easier)_
     - __Problem:__ [Mancunian Candidate Master Forever](https://www.codechef.com/ACM16CHN/problems/CHN16B)
 
@@ -119,8 +121,8 @@ __Advanced Problems__
     - __Problem:__ [Mei Mei and dress](https://www.codechef.com/problems/ALR20F)
 
 - Dynamic Programming 
+    - __Tutorial:__ [Dynamic Programming and Bit Masking](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/)
     - __Problem:__ Subset DP _[think about solution close to O(3^(n-k))) (3^n operations are needed if you want to iterate through all subsets of set S for every S , where S is a subset of X , size of X is n. Proof : It is summation N_c_i * 2^i = 3^N)]_
-
     - __Problem:__ [Disconnecting Cities](https://www.codechef.com/GW19MOS/problems/DICITIES)
 
 - Graphs (Strongly Connected Components, Topological Sort, Binary Search)
@@ -148,5 +150,5 @@ __Advanced Problems__
         - __Problem:__ [Bus Routes](https://www.codechef.com/problems/KGP16J)
 
 - Heavy-Light Decomposition
-    - __Tutorial:__ [Heavy-Light Decomposition](https://cp-algorithms.com/graph/hld.html)
+    - __Tutorial:__ [Heavy-Light Decomposition](https://blog.anudeep2011.com/heavy-light-decomposition/)
     - __Problem:__ [Adi and the Tree](https://www.codechef.com/SNCKEL19/problems/ADITREE)

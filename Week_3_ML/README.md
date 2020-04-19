@@ -90,3 +90,19 @@ Following are a list of some contests that you can take part in by creating ML/D
 - [Elo Merchant Category Recommendation Challenge](https://www.kaggle.com/c/elo-merchant-category-recommendation)
 
 You can try any preprocessing methods, algorithms & ensembles for these challenges. Augmented deep Learning architectures such as CNNs, Autoencoders & RNNs could come in handy while attempting these challenges.
+
+
+### 4. Denoising an image
+
+
+Go to [denoising-task](./denoising-task) to find the problem statement and relevant data.
+You don’t need to know about *Markov Random Fields* (MRF) priors for attempting this task. The following information is sufficient, though slides for MRF priors and image denoising are present if you wish to learn more:
+
+For each of the `g()` function :
+
+- Minimise the following function (by gradient descent) to get the denoised image :    
+&Sigma;{a*(y<sub>i</sub>-x<sub>i</sub>)<sup>2</sup> + g(x<sub>i</sub>-x<sub>i1</sub>)+g(x<sub>i</sub>-x<sub>i2</sub>)+g(x<sub>i</sub>-x<sub>i3</sub>)+g(x<sub>i</sub>-x<sub>i4</sub>) }
+where i<sub>1</sub>, i<sub>2</sub>, i<sub>3</sub>, i<sub>4</sub> are the 4 neighbouring pixels of i. `y` is the noisy image and `x` is the denoised image.
+
+- The role of `g()` is of *edge preservation* (neighbouring values of pixels shouldn’t differ by much , and should differ by much only at edges)
+, the role of **(y<sub>i</sub>-x<sub>i</sub>)<sup>2</sup>** is *noise removal*. While `a` is for giving weights to noise removal and edge preservation

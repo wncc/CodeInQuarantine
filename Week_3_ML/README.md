@@ -45,7 +45,7 @@ Through this assignment, we will try to implement different clustering algorithm
 
   | sr_no | doc_text | class |
   |--|--| -- |
-  | 1 | Ad sales boost Time ...  that stake. | business |
+  | 1 | Ad sales boost time ...  that stake. | business |
   | ... | ... | ... |
 
 - Now, we can create feature vectors for each of these documents & append them as corresponding columns to the above dataframe. Try to experiment with the following models to create feature vectors:
@@ -58,7 +58,7 @@ Through this assignment, we will try to implement different clustering algorithm
   The dataframe should now look like:
   | sr_no | doc_text | class | bow_vectors | tfidf_vectors |
   |--|--| -- | -- | -- |
-  | 1 | ad sales boost Time ...  that stake | business | {"ad": 1, ...} | {"ad": 1, ...}
+  | 1 | ad sales boost time ...  that stake | business | {"ad": 1, ...} | {"ad": 1, ...}
   | ... | ... | ... | .. | .. |
 
 - Shuffle the rows of this dataframe & split it into a training, validation & test set. You could choose splits such as 70 : 10 : 20 [training : validation : test]

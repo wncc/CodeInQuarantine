@@ -9,7 +9,7 @@ As promised, we are back to help you begin your coding journey! WnCC proudly pre
 Here's the list of topics being covered:
 - [Week 1 - Python](./Week_1_Python/README.md)
 - [Week 2 - Competitive Programming](./Week_2_CC/README.md)
-- Week 3 - Machine Learning
+- [Week 3 - Machine Learning](./Week_3_ML/README.md)
 - Week 4 - Git/GitHub
 - Week 5 - FrontEnd Dev
 - Week 6 - BackEnd Dev

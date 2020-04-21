@@ -46,7 +46,7 @@ ___Note:__ Most of the problems have editorials or tutorials , also you could re
     - __Problem:__ [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/)
     - __Problem:__ [Multiplication Table](https://codeforces.com/contest/448/problem/D)
 - Strings
-    - __Tutorial:__ Read about [prefix and suffix functions](https://www.geeksforgeeks.org/match_results-prefix-and-suffix-in-cpp/) and their uses
+    - __Tutorial:__ Read about [Prefix Sum Array](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming//) and their uses
     - __Problem:__ [Make Palindrome](https://www.codechef.com/LTIME27/problems/MAKPALIN)
 
 - Stacks
@@ -109,7 +109,10 @@ __Intermediate Problems__
     - __Problem:__ [Alice and Bob play Contact](https://www.codechef.com/ACM16CHN/problems/CHN16I)
 
 - Dynamic Programming 
-    - Bitmasks & Subset DP
+    - Bitmasks, Subsets and Digit DP
+        - __Tutorial:__ [Dynamic Programming and Bit Masking](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/)
+        - __Tutorial:__ [Digit DP](https://www.geeksforgeeks.org/digit-dp-introduction/)
+        - __Tutorial:__ [DP over Subsets](https://codeforces.com/blog/entry/337) 
         - __Problem:__ [Pen Pineapple Apple Pen](https://www.codechef.com/ICPCIN19/problems/PENS)
         - __Problem:__ [Cardinality](https://www.codechef.com/problems/CARDINAL)
     - DP on Trees
@@ -124,9 +127,9 @@ __Advanced Problems__
     - __Problem:__ [Mei Mei and dress](https://www.codechef.com/problems/ALR20F)
 
 - Dynamic Programming 
-    - __Tutorial:__ [Dynamic Programming and Bit Masking](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/)
-    - __Problem:__ Subset DP _[think about solution close to O(3^(n-k))) (3^n operations are needed if you want to iterate through all subsets of set S for every S , where S is a subset of X , size of X is n. Proof : It is summation N_c_i * 2^i = 3^N)]_
+    - __Tutorial:__ [DP over Subsets](https://codeforces.com/blog/entry/337) 
     - __Problem:__ [Disconnecting Cities](https://www.codechef.com/GW19MOS/problems/DICITIES)
+    - __Hint:__ DP over Subsets _[think about solution close to O(3^(n-k))) (3^n operations are needed if you want to iterate through all subsets of set S for every S , where S is a subset of X , size of X is n. Proof : It is summation N_c_i * 2^i = 3^N)]_
 
 - Graphs (Strongly Connected Components, Topological Sort, Binary Search)
     - __Problem:__ [Visiting Friends](https://www.codechef.com/problems/MCO16405)

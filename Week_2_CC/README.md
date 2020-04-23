@@ -50,7 +50,7 @@ ___Note:__ Most of the problems have editorials or tutorials , also you could re
     - __Problem:__ [Make Palindrome](https://www.codechef.com/LTIME27/problems/MAKPALIN)
 
 - Stacks
-    - __Problem:__ [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+    - __Problem:__ [Largest Rectangle in Histogram](https://www.spoj.com/problems/HISTOGRA/)
     _(Try a O(n) solution)_
 
 - Greedy Algorithms

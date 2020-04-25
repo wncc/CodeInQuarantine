@@ -13,9 +13,12 @@ Follow the following resources to get acquainted with these important tools and 
 
 ## Resources
 
- - ### [Open Source basics](https://www.wncc-iitb.org/wiki/index.php/Open_Source) 
 - ### [Git - A Version Control System](https://www.wncc-iitb.org/wiki/index.php/Git)
+- ### [Git Branching](https://learngitbranching.js.org/)
+  _Head to this link to practice and understand the concept of branching in git with an online git repository simulator.._
 - ### [Github - A Code Hosting Platform](https://guides.github.com/activities/hello-world/)
+ - ### [Open Source basics](https://www.wncc-iitb.org/wiki/index.php/Open_Source) 
+
 
 
 ## Tasks

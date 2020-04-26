@@ -29,9 +29,11 @@ Git squashing is an excellent way to keep commit histories clean, organized, and
 
 This command will give you the entire commit history of this git folder q4. It has 23 commits in total, from three different users, even on different bases that were later merged. Your task is to squash all consecutive commits from a user into a single commit.  
 Here's how it looks right now:   
+
 ![](./initial.PNG)   
 
 Here's how it must look finally:   
+
 ![](./final.PNG)
 
 

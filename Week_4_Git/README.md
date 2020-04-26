@@ -23,3 +23,11 @@ Follow the following resources to get acquainted with these important tools and 
 
 ## Tasks
 
+### 1. [Git Game](https://github.com/git-game/git-game)
+
+Once you are familiar with git and github give this a try. This is a terminal game designed to test your knowledge of git commands. Each level in the game is a task to perform on this repo.  Once you perform that task, you will be given your next task. There are a total of ten levels, each one harder than last!
+  
+### 2. [First Contribution](https://github.com/firstcontributions/first-contributions)
+
+Make your first Open Source contribution. 
+

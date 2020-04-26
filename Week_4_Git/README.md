@@ -21,6 +21,14 @@ Follow the following resources to get acquainted with these important tools and 
 
 ## Tasks
 
+### 1. Git Squashing
+
+Git squashing is an excellent way to keep commit histories clean, organized, and formal. The task is simple. In the resources provided, there is a folder named q4. 
+
+ `git log --all --graph`
+
+This command will give you the entire commit history of this project. It has 23 commits in total,from three different users, even on different bases that were later merged. Your task is to squash all consecutive commits from a user into a single commit.
+
 ### 1. [Git Game](https://github.com/git-game/git-game)
 
 Once you are familiar with git and github give this a try. This is a terminal game designed to test your knowledge of git commands. Each level in the game is a task to perform on this repo.  Once you perform that task, you will be given your next task. There are a total of ten levels, each one harder than last!

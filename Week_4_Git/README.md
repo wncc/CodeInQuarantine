@@ -25,11 +25,11 @@ Follow the following resources to get acquainted with these important tools and 
 
 Once you are familiar with git and github give this a try. This is a terminal game designed to test your knowledge of git commands. Each level in the game is a task to perform on this repo.  Once you perform that task, you will be given your next task. There are a total of ten levels, each one harder than last!
 
-### 3. ### [Git Branching](https://learngitbranching.js.org/)
+### 2. [Git Branching](https://learngitbranching.js.org/)
 
 Head to this link to practice and understand the concept of branching in git with an online git repository simulator. 
   
-### 2. [First Contribution](https://github.com/firstcontributions/first-contributions)
+### 3. [First Contribution](https://github.com/firstcontributions/first-contributions)
 
 Make your first Open Source contribution. 
 

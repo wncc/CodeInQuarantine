@@ -23,7 +23,7 @@ Follow the following resources to get acquainted with these important tools and 
 
 ### 1. Git Squashing
 
-Git squashing is an excellent way to keep commit histories clean, organized, and formal. The task is simple. Downlaod the file `q4.zip`. It has a git folder named q4. 
+Git squashing is an excellent way to keep commit histories clean, organized, and formal. The task is simple. Download the file [q4.zip](./q4.zip). It has a git folder named q4. 
 
  `git log --all --graph`
 

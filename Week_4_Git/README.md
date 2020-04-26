@@ -14,10 +14,8 @@ Follow the following resources to get acquainted with these important tools and 
 ## Resources
 
 - ### [Git - A Version Control System](https://www.wncc-iitb.org/wiki/index.php/Git)
-- ### [Git Branching](https://learngitbranching.js.org/)
-  _Head to this link to practice and understand the concept of branching in git with an online git repository simulator._
 - ### [Github - A Code Hosting Platform](https://guides.github.com/activities/hello-world/)
- - ### [Open Source basics](https://www.wncc-iitb.org/wiki/index.php/Open_Source) 
+- ### [Open Source basics](https://www.wncc-iitb.org/wiki/index.php/Open_Source) 
 
 
 
@@ -26,6 +24,10 @@ Follow the following resources to get acquainted with these important tools and 
 ### 1. [Git Game](https://github.com/git-game/git-game)
 
 Once you are familiar with git and github give this a try. This is a terminal game designed to test your knowledge of git commands. Each level in the game is a task to perform on this repo.  Once you perform that task, you will be given your next task. There are a total of ten levels, each one harder than last!
+
+### 3. ### [Git Branching](https://learngitbranching.js.org/)
+
+Head to this link to practice and understand the concept of branching in git with an online git repository simulator. 
   
 ### 2. [First Contribution](https://github.com/firstcontributions/first-contributions)
 

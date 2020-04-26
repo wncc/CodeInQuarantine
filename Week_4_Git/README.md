@@ -23,11 +23,11 @@ Follow the following resources to get acquainted with these important tools and 
 
 ### 1. Git Squashing
 
-Git squashing is an excellent way to keep commit histories clean, organized, and formal. The task is simple. In the resources provided, there is a folder named q4. 
+Git squashing is an excellent way to keep commit histories clean, organized, and formal. The task is simple. Downlaod the file `q4.zip`. It has a git folder named q4. 
 
  `git log --all --graph`
 
-This command will give you the entire commit history of this project. It has 23 commits in total,from three different users, even on different bases that were later merged. Your task is to squash all consecutive commits from a user into a single commit.
+This command will give you the entire commit history of this git folder q4. It has 23 commits in total,from three different users, even on different bases that were later merged. Your task is to squash all consecutive commits from a user into a single commit.
 
 ### 1. [Git Game](https://github.com/git-game/git-game)
 

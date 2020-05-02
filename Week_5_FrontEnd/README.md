@@ -18,7 +18,7 @@ Development is the one of the most sought-after field in CS. Most companies need
   
   ***Cascading Style Sheets** is essential for controlling layout and aesthetics of a webpage. CSS basically helps create a uniform look and feel across several pages of a website*
 
-- ### [JavaScript](https://www.wncc-iitb.org/wiki/index.php/CSS)
+- ### [JavaScript](https://www.wncc-iitb.org/wiki/index.php/JavaScript_Basics)
   
   *JavaScript allows interaction with the user and allows developers to make **Dynamic** pages. This part is where actual Web Dev starts.*
 

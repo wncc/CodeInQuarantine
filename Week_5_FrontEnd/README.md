@@ -18,7 +18,7 @@ In simple words, web development is using programming tools and writing codes *t
   
   ***Cascading Style Sheets** is essential for controlling layout and aesthetics of a webpage. CSS basically helps create a uniform look and feel across several pages of a website*
 
-- ### [JavaScript](https://www.wncc-iitb.org/wiki/index.php/CSS)
+- ### [JavaScript](https://www.wncc-iitb.org/wiki/index.php/JavaScript_Basics)
   
   *JS allows the webpage to interact with user i.e. it allows developers to make **Dynamic** pages.*
 

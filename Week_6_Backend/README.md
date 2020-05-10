@@ -50,6 +50,6 @@ This time you will create a simple photo sharing application using Django.
 - This application will allow users to login and upload pictures.
 - Implement a common dashboard for every user where their pictures will be seen
 - Add commenting features and tagging features.
-- If you have done the Machine Learning Code in Quarantine, you could experiment with running your machine learning models on the backend. As your backend is in pyton and your ML code was also in python you can intergate them. Add a zone in your application for adding cat images. Create a classifier using Keras/TensorFlow that will detect cats in images and link this with your application. This may get a bit difficult to implement so make sure to search online for various implementations.
+- If you have done the Machine Learning Code in Quarantine, you could experiment with running your machine learning models on the backend. As your backend is in python and your ML code was also in python you can intergate them. Add a zone in your application for adding cat images. Create a classifier using Keras/TensorFlow that will detect cats in images and link this with your application. This may get a bit difficult to implement so make sure to search online for various implementations.
 
 That's it for this week. We hope to have you onboard next week for some advanced front end development.

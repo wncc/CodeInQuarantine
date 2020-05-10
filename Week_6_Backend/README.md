@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Last week we introduced you to basics of front end development. However the websites that you created did not have any state. Once you closed the site all information about what you did on the site was lost. Ideally you would like your application to interact with some server so that this information is stored. For instance in your personal website you would like it if a visitor can post a comment which gets stored permanently. This is where the backend comes in. The backend refers to the code running on the server of your website. This code thus allows you to modify resources on the server. For example this backend code could take the comment that you posted via an HTTP request and store it in a database. The next time your site is visited the backend would fetch data from the database and provide it to you through the HTML front end that we talked about last week. Your backend could also do computational heavy tasks which cannot be done in your computer alone. WolframAlpha is one example that uses this very innovatiely in their backend. Google uses their backend to run crawlers on the internet that bring you your search results.
+Last week we introduced you to basics of front end development. However the websites that you created did not have any state. Once you closed the site all information about what you did on the site was lost. Ideally you would like your application to interact with some server so that this information is stored. For instance in your personal website you would like it if a visitor can post a comment which gets stored permanently. This is where the backend comes in. The backend refers to the code running on the server of your website. This code thus allows you to modify resources on the server. For example this backend code could take the comment that you posted via an HTTP request and store it in a database. The next time your site is visited the backend would fetch data from the database and provide it to you through the HTML front end that we talked about last week. Your backend could also do computational heavy tasks which cannot be done in your computer alone. WolframAlpha is one example that uses this very innovatively in their backend. Google uses their backend to run crawlers on the internet that bring you your search results.
 
 It is however very difficult to write backend code without using external frameworks. You will have to manually listen for requests and then serve data while maintaining a connection. Fortunately there are some great frameworks out there that make this process very simple. Let us go through a very powerful framework called Django which allows you to write large scale applications using Python.
 
-## Resoruces
+## Resources
 
 - ### [Introduction to Django](https://www.wncc-iitb.org/wiki/index.php/Django)
 	*Get introduced to Django through this article*
@@ -38,7 +38,7 @@ All of us have at one point in time wanted to create a blog where we share our t
 
 Now we ask of you to make your own whatsapp! Your task is to create a simple chat application using Django.
 
-- The application does not have to be real time. You can simply make the front end make a request (this is called a GET or POST request) to the server and get the messages.
+- The application does not have to be real time. You can simply make the front end make a request (this is called a GET or POST request) periodically to the server and get the messages.
 - Once you are done with this you can try researching on Sockets. Sockets allow communication to happen in real time over the internet by using what is called the WebSockets technology. There are numerous modules available for Django that make this simple for you to use. One such module is called SocketIO. You will have to google and read various tutorials to make this work.
 - Now you must implement an API for your application. Once you have done this try integrating your chat app to a python script that will send messages periodically.
 - If you want you can also do this task using NodeJS to learn a different way of doing things.

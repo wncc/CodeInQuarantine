@@ -22,7 +22,7 @@ It is however very difficult to write backend code without using external framew
 	*Provide extensibility to your applications by allowing other users to extend your applications using their own code*
 
 - ### [Introduction to NodeJS](https://www.wncc-iitb.org/wiki/index.php/Node.js)
-	*There are other backend frameworks as well. This time we introduce you to NodeJS which allows you to run javascript on the backend also. This means that both your front end and backend can be in one single language, Javascript. *
+	*There are other backend frameworks as well. This time we introduce you to NodeJS which allows you to run javascript on the backend also. This means that both your front end and backend can be in one single language, Javascript*
 ## Tasks
 
 ### 1. Your Own Blog

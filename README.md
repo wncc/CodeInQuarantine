@@ -12,7 +12,7 @@ Here's the list of topics being covered:
 - [Week 3 - Machine Learning](./Week_3_ML/README.md)
 - [Week 4 - Git/GitHub](./Week_4_Git/README.md)
 - [Week 5 - FrontEnd Dev](./Week_5_FrontEnd/README.md)
-- Week 6 - BackEnd Dev
+- [Week 6 - BackEnd Dev](./Week_6_Backend/README.md)
 - Week 7 - Advanced FrontEnd Dev
 - Week 8 - Blockchain
 

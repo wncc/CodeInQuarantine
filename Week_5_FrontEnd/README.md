@@ -58,6 +58,7 @@ There are thousands of browser extensions that exist, that run scripts to make y
 - Log in to `internet.iitb.ac.in` or `moodle.iitb.ac.in` with one click 
 - Block Websites for a certain period of time everyday
 - A search bar which opens the top YouTube video recommendation for that keyword 
+- Display the total duration of a youtube playlist, given its link
 
 ### 5. JavaScript Implementations 
 

@@ -1,5 +1,5 @@
 
-# Week 6 | Advanced Frontend Development
+# Week 7 | Advanced Frontend Development
 
 ## Introduction
 

@@ -38,7 +38,7 @@ For added practice, here are a few ways you could expand on the app:
 - Sign up for a free API key from [Open Weather Map](https://openweathermap.org/api), fetch a real 5-day forecast, and feed that data into your app.
 
 
-### Contact Us App
+#### Contact Us App
 All websites have a Contact Us page which allows the customer to enter their details and send their messages/queries directly from the website. 
 - Your task is to create this Contact Us component in React having the fields as shown in the image below. This Contact Us component can then be easily integrated with any website/web app. The form should be complete with validation for fields like email and all fields are compulsory. 
 - Finally, we have to send an email from the customer's email account to our email account with the contact form data. This will be handled from the backend. For the backend part you will need a web server. 

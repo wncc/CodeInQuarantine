@@ -25,7 +25,7 @@ Think of building websites and web apps like building a house—when you set out
 
 ## Tasks
 
-### 1. React
+### 1. React/Angular
 #### Weather App
 Display a 5-day weather forecast, where each day shows the high and low temperatures, and an image for sunny/rainy/cloudy/snowy. Use hard-coded data until you’ve got everything rendering correctly.
 
@@ -44,6 +44,30 @@ All websites have a Contact Us page which allows the customer to enter their det
 - Finally, we have to send an email from the customer's email account to our email account with the contact form data. This will be handled from the backend. For the backend part you will need a web server. 
 - You have to make an API which will take form data from the front end and handle the email functionality. You can chose to use any backend framework/language for this purpose.  
 
-![](./contact.png)
+	![](./contact.png)
 
+#### Stock Market Dashboard
+Investors and analysts typically analyze the price movement of any stock before investing in it, so the graphical representation of this trend makes analysis easier. Through this task, we will create a dashboard to visualize and compare the stock prices of different companies (like GOOG, AAPL, GOOGL, AMZN, etc.).
 
+* To get started with such dashboards, the easiest way is to pick up a __Template__ & start modifying it according to your needs. There are tons of free templates avaiable for use (both for React & Angular). Here are some websites that offer great free templates:
+	* [Angular Dashboard Templates](https://www.codeinwp.com/blog/best-angular-admin-dashboard-templates/)
+	* [React Dashboard Templates](https://material-ui.com/store/collections/free-react-dashboard/)
+* Next, the most important aspect of this task is to obtain the data about stock prices. This can be done by leveraging APIs that offer such services. Some interesting APIs that can be queried to obtain stock-related data are:
+	* [IEX API](https://iexcloud.io/docs/api/)
+	* [Tiingo API](https://api.tiingo.com/documentation/general/overview)
+	* [World Trading Data API](https://www.worldtradingdata.com/documentation)
+
+	_Note: Most of these APIs are free for a certain threshold of requests (per hour basis), so go through the rate limits carefully_
+
+	Here are some tutorials that will help you understand how to send requests to API endpoints from Angular/React & use the obtained results:
+	* [Angular REST API & Httpclient Tutorial](https://www.djamware.com/post/5d8d7fc10daa6c77eed3b2f2/angular-8-tutorial-rest-api-and-httpclient-examples)
+	* [React API Usage Tutorial](https://pusher.com/tutorials/consume-restful-api-react)
+
+* Once built, your dashboard should look something similar to the image below (though not that complex! :P). The basic features include:
+	* Allow a user to see the stock prices history of a particular company
+	* Compare prices of stocks for different companies
+	* Show details about stocks (trading volume, market cap, opening & closing prices, etc.)
+	* You can add any more features that you wish to
+	* _Bonus: With prior knowledge of ML & Backend Development, you could create a model to predict stock prices, expose this service as a REST API through a backend framework & integrate it with your dashboard to predict future stock prices of a company_
+
+	![](./stocks.jpg)

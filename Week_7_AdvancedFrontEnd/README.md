@@ -4,7 +4,7 @@
 ## Introduction
 
 Back in the day, web developers would implement front end logic by relying heavily on vanilla JS and jQuery. But, as front end applications became more and more complex, the tools rose to meet that complexity and Javascript Frameworks came into picture.
-A JavaScript framework is a tool that you can leverage to develop advanced web applications, especially SPAs. At their most basic, JS frameworks are collections of JavaScript code libraries (see below) that provide developers with pre-written JS code to use for routine programming features and tasks—literally a framework to build websites or web applications around.
+A JavaScript framework is a tool that you can leverage to develop advanced web applications.. At their most basic, JS frameworks are collections of JavaScript code libraries that provide developers with pre-written JS code to use for routine programming features and tasks—literally a framework to build websites or web applications around.
 Think of building websites and web apps like building a house—when you set out to build a house, you could create all of your own building materials from scratch and start building without any schematics, but that approach would be incredibly time-consuming and doesn’t make a lot of sense. It’s more likely that you would purchase pre-manufactured building materials (wood, bricks, countertops, etc.) and then assemble them based on a blueprint to fit your specific needs.
 
 Coding is very similar. When you set out to code a website, you could code every aspect of that site from scratch, but there are certain common website features that make more sense to apply from a template—if you need a wheel, for instance, it’s a lot more sensible to buy one than it is to reinvent it. And that’s where JavaScript frameworks come into play.
@@ -13,6 +13,10 @@ JS libraries like jQuery are used by plugging library code into the rest of your
 
 [Here](https://blog.logrocket.com/history-of-frontend-frameworks/) is an interesting read if you would like to read about the history of frontend frameworks.
 
+Native app development is the creation of software programs that run on specific devices and platforms. Unlike websites and web applications, native mobile apps don’t run in the browser. You need to download them from platform-specific app stores such as Apple’s App Store and Google Play. After installation, you can access each app by tapping its respective icon on the screen of your device.
+Native app development requires different skills and technologies than mobile website development. You don’t have to worry about browser behavior and compatibility. You can use the native features of mobile OSs to deliver the user experience and implement the functionalities of your app. 
+
+
 ## Resources
 
 - ### [ReactJS](https://www.wncc-iitb.org/wiki/index.php/ReactJs)
@@ -20,5 +24,13 @@ JS libraries like jQuery are used by plugging library code into the rest of your
 
 ## Tasks
 
-### 1. Your Own Blog
+### 1. React
+#### *Weather App
+Display a 5-day weather forecast, where each day shows the high and low temperatures, and an image for sunny/rainy/cloudy/snowy. Use hard-coded data until you’ve got everything rendering correctly.
+
+For added practice, here are a few ways you could expand on the app:
+
+*Add the ability to click on a day, and see its hourly forecast.
+*Add React Router to the project (npm install react-router) and follow the quick start guide here to add routes, such that / shows the 5-day forecast, and /[name-of-day] shows the hourly forecast for a particular day.
+*Sign up for a free API key from Open Weather Map, fetch a real 5-day forecast, and feed that data into your app.
 

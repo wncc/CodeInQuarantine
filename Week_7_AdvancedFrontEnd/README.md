@@ -37,3 +37,10 @@ For added practice, here are a few ways you could expand on the app:
 - Add React Router to the project and follow the quick start guide [here](https://reacttraining.com/react-router/web/guides/quick-start) to add routes, such that "localhost:3000/" shows the 5-day forecast, and "localhost:3000/[name-of-day]" shows the hourly forecast for a particular day.
 - Sign up for a free API key from [Open Weather Map](https://openweathermap.org/api), fetch a real 5-day forecast, and feed that data into your app.
 
+
+### Contact Us App
+All websites have a Contact Us page which allows the customer to enter their details and send their feedback/message/queries directly from the website. Your task is to create this Contact Us component in React having the fields as shown in the image below. The form should be complete with validation for fields like email and all fields are compulsory. Finally, we have to send an email from the customer's email account to our email account with the contact form data. This will be handled from the backend. For the backend part you will need a web server. You have to make an API which will take form data from the front end and handle the email functionality. You can chose to use any backend framework/language for this purpose. You can refer [this](https://www.tutorialspoint.com/php/php_sending_emails.htm) 
+
+![](./image.png)
+
+

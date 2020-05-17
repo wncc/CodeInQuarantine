@@ -21,12 +21,15 @@ Think of building websites and web apps like building a house—when you set out
 	*React is a front end tool to build both UI components and whole UIs – everything that concerns putting together visual elements, binding data to those elements, and specifying the logic governing it. Head to this link to more and learn how to build web apps with React*
 
 - ### [Android Studio](https://www.wncc-iitb.org/wiki/index.php/Android_App_Development)
-	*Android Studio is Android's official IDE. It is a framework that includes every tools necessary to develop native Android apps. Head to this link to start making your first android application.* 
+	*Android Studio is Android's official IDE. It is a framework that includes every tools necessary to develop native Android apps. Head to this link to start making your first android application.*
+
+- ### [Angular](https://www.wncc-iitb.org/wiki/index.php/Angular)
+	*Currently, one of the most popular frameworks for frontend development, React is more geared towards being as flexible as possible, Angular is a TypeScript-based open-source web application framework led by Google. While React is more geared towards being as flexible as possible, giving developers the choice of architectures and structures. Angular, however, enforces a certain structure onto the project.* 
 
 ## Tasks
 
 ### 1. React/Angular
-#### Weather App
+#### a) Weather App
 Display a 5-day weather forecast, where each day shows the high and low temperatures, and an image for sunny/rainy/cloudy/snowy. Use hard-coded data until you’ve got everything rendering correctly.
 
 
@@ -38,7 +41,7 @@ For added practice, here are a few ways you could expand on the app:
 - Sign up for a free API key from [Open Weather Map](https://openweathermap.org/api), fetch a real 5-day forecast, and feed that data into your app.
 
 
-#### Contact Us App
+#### b) Contact Us App
 All websites have a Contact Us page which allows the customer to enter their details and send their messages/queries directly from the website. 
 - Your task is to create this Contact Us component in React having the fields as shown in the image below. This Contact Us component can then be easily integrated with any website/web app. The form should be complete with validation for fields like email and all fields are compulsory. 
 - Finally, we have to send an email from the customer's email account to our email account with the contact form data. This will be handled from the backend. For the backend part you will need a web server. 
@@ -46,7 +49,7 @@ All websites have a Contact Us page which allows the customer to enter their det
 
 	![](./contact.png)
 
-#### Stock Market Dashboard
+#### c) Stock Market Dashboard
 Investors and analysts typically analyze the price movement of any stock before investing in it, so the graphical representation of this trend makes analysis easier. Through this task, we will create a dashboard to visualize and compare the stock prices of different companies (like GOOG, AAPL, GOOGL, AMZN, etc.).
 
 * To get started with such dashboards, the easiest way is to pick up a __Template__ & start modifying it according to your needs. There are tons of free templates avaiable for use (both for React & Angular). Here are some websites that offer great free templates:
@@ -71,3 +74,10 @@ Investors and analysts typically analyze the price movement of any stock before 
 	* _Bonus: With prior knowledge of ML & Backend Development, you could create a model to predict stock prices, expose this service as a REST API through a backend framework & integrate it with your dashboard to predict future stock prices of a company_
 
 	![](./stocks.jpg)
+
+### 2. Android Studio
+#### a) To-do App
+Make a classic To-Do app, with features and a layout that suits you. You could use it in your daily life too! [Here](https://github.com/avjinder/Minimal-Todo) is an implementation.
+
+#### b) Pedometer
+Make a simple, light-weight pedometer app which uses the hardware sensor of the device to calculate the steps taken. Find an example [here](https://github.com/j4velin/Pedometer).

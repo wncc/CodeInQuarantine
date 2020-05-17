@@ -24,7 +24,7 @@ Think of building websites and web apps like building a house—when you set out
 	*Android Studio is Android's official IDE. It is a framework that includes every tools necessary to develop native Android apps. Head to this link to start making your first android application.*
 
 - ### [Angular](https://www.wncc-iitb.org/wiki/index.php/Angular)
-	*Currently, one of the most popular frameworks for frontend development, React is more geared towards being as flexible as possible, Angular is a TypeScript-based open-source web application framework led by Google. While React is more geared towards being as flexible as possible, giving developers the choice of architectures and structures. Angular, however, enforces a certain structure onto the project.* 
+	*Currently, one of the most popular frameworks for frontend development, Angular is a TypeScript-based open-source web application framework led by Google. While React is more geared towards being as flexible as possible, giving developers the choice of architectures and structures. Angular, however, enforces a certain structure onto the project.* 
 
 ## Tasks
 
@@ -77,7 +77,7 @@ Investors and analysts typically analyze the price movement of any stock before 
 
 ### 2. Android Studio
 #### a) To-do App
-Make a classic To-Do app, with features and a layout that suits you. You could use it in your daily life too! [Here](https://github.com/avjinder/Minimal-Todo) is an implementation.
+Make the classic To-Do app, with a layout and features that suit you. You could use it in your daily life too. [Here](https://github.com/avjinder/Minimal-Todo) is an implementation.
 
 #### b) Pedometer
 Make a simple, light-weight pedometer app which uses the hardware sensor of the device to calculate the steps taken. Find an example [here](https://github.com/j4velin/Pedometer).

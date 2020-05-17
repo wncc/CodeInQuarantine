@@ -22,13 +22,17 @@ Native app development requires different skills and technologies than mobile we
 - ### [ReactJS](https://www.wncc-iitb.org/wiki/index.php/ReactJs)
 	*React is a front end tool to build both UI components and whole UIs – everything that concerns putting together visual elements, binding data to those elements, and specifying the logic governing it. Head to this link to more and learn how to build web apps with React*
 
+- ### [Android Studio](https://www.wncc-iitb.org/wiki/index.php/Android_App_Development)
+	*Android Studio is Android's official IDE. It is a framework that includes every tools necessary to develop native Android apps. Head to this link to start making your first android application. 
+
 ## Tasks
 
 ### 1. React
 #### Weather App
 Display a 5-day weather forecast, where each day shows the high and low temperatures, and an image for sunny/rainy/cloudy/snowy. Use hard-coded data until you’ve got everything rendering correctly.
-<br>
-![](./weather.PNG)  
+
+
+![](./weather.png)  
 
 For added practice, here are a few ways you could expand on the app:
 - Add the ability to click on a day, and see its hourly forecast.

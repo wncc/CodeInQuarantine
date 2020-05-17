@@ -25,12 +25,12 @@ Native app development requires different skills and technologies than mobile we
 ## Tasks
 
 ### 1. React
-#### *Weather App
+#### Weather App
 Display a 5-day weather forecast, where each day shows the high and low temperatures, and an image for sunny/rainy/cloudy/snowy. Use hard-coded data until you’ve got everything rendering correctly.
-
+<br>
 For added practice, here are a few ways you could expand on the app:
 
-*Add the ability to click on a day, and see its hourly forecast.
-*Add React Router to the project (npm install react-router) and follow the quick start guide here to add routes, such that / shows the 5-day forecast, and /[name-of-day] shows the hourly forecast for a particular day.
-*Sign up for a free API key from Open Weather Map, fetch a real 5-day forecast, and feed that data into your app.
+- Add the ability to click on a day, and see its hourly forecast.
+- Add React Router to the project (npm install react-router) and follow the quick start guide here to add routes, such that / shows the 5-day forecast, and /[name-of-day] shows the hourly forecast for a particular day.
+- Sign up for a free API key from [Open Weather Map](https://openweathermap.org/api), fetch a real 5-day forecast, and feed that data into your app.
 

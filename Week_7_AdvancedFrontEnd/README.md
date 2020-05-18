@@ -19,12 +19,15 @@ Think of building websites and web apps like building a house—when you set out
 
 - ### [ReactJS](https://www.wncc-iitb.org/wiki/index.php/ReactJs)
 	*React is a front end tool to build both UI components and whole UIs – everything that concerns putting together visual elements, binding data to those elements, and specifying the logic governing it. Head to this link to more and learn how to build web apps with React*
-
-- ### [Android Studio](https://www.wncc-iitb.org/wiki/index.php/Android_App_Development)
-	*Android Studio is Android's official IDE. It is a framework that includes every tools necessary to develop native Android apps. Head to this link to start making your first android application.*
-
+	
 - ### [Angular](https://www.wncc-iitb.org/wiki/index.php/Angular)
 	*Currently, one of the most popular frameworks for frontend development, Angular is a TypeScript-based open-source web application framework led by Google. While React is more geared towards being as flexible as possible, giving developers the choice of architectures and structures. Angular, however, enforces a certain structure onto the project.* 
+
+- ### [Android App Dev](https://www.wncc-iitb.org/wiki/index.php/Android_App_Development)
+	*Head here to get to know about the fundamentals of App Development*
+
+- ### [Android Studio Tutorial](https://www.wncc-iitb.org/wiki/index.php/Android_Studio)
+	*Android Studio is Android's official IDE. It is a framework that includes every tools necessary to develop native Android apps. Head to this link to start making your first android application.*
 
 ## Tasks
 

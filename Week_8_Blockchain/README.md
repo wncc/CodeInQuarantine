@@ -60,3 +60,17 @@ To understand this, head over to the resources & dive into the world of blockcha
     - [Build a Javascript Blockchain [Part 1]](https://www.codementor.io/@savjee/how-to-build-a-blockchain-with-javascript-part-1-k7d373dtk) [[Part 2]](https://www.codementor.io/@savjee/implementing-proof-of-work-blockchain-in-javascript-part-2-k9ozymkqw)
     - [Creating  Minamist Blockchain using Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
     - [Building a Blockchain in Golang (Video #18-27 in this Series)](https://www.youtube.com/watch?v=uCR_A-Bphl0&list=PLJbE2Yu2zumCe9cO3SIyragJ8pLmVv0z9)
+
+## Tasks
+
+1. ### Full-Fledged NFT
+    In the [DApp Development on Ethereum with Solidity & Web3](https://www.wncc-iitb.org/wiki/index.php/DApp_Development) tutorial, we shared a tutorial to create a DApp & implement a basic custom ERC721 token. The tutorial only involves _minting_ these crypto-tokens. 
+
+    This task intends to extend the DApp created in the above tutorial to include the full functionality of an ERC721 NFT (which includes transferring tokens, setting allowances, buring tokens, etc.). For this, you would have to go through the [specifications of ERC721 Token Standard](https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24). 
+
+    The UI could should be modified to display the token owner as well with each token & have an interface for transferring these tokens.
+
+    _Bonus: If you have a fair understaning of both ERC20 & ERC721, you could try and create a custom ERC20 token & bind it to your NFT to create a crypto marketplace for your NFTs. For this, you may need to add additional fields to the basic ERC721 token to include its cost in terms of the ERC20 token. Then, you would have to write a wrapper contract for the marketplace which basically uses the `transfer()` function from both tokens in a single transaction to conduct a transaction._
+
+2. ### Incentivized Content Sharing Platform (Minimalistic Version)
+    In this task, you are supposed to extend the ideas discussed in the ERC20 & IPFS-related tutorial respectively in order to create a platform where a user can upload documents to IPFS, store the hash on the blockchain & share the hash with other users [This may not be done on the platform directly]. Functionality should be there such that a reader can tip the content creator (or person sharing the file) with some ERC20 tokens (or ETH as well) if (s)he finds the content interesting.

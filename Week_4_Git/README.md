@@ -13,9 +13,9 @@ Follow the following resources to get acquainted with these important tools and 
 
 ## Resources
 
-- ### [Git - A Version Control System](https://www.wiki.wncc-iitb.org/wiki/index.php?title=Git)
-- ### [Github - A Code Hosting Platform](https://www.wncc-iitb.org/wiki/index.php/Github-tutorial)
-- ### [Open Source basics](https://www.wncc-iitb.org/wiki/index.php/Open_Source) 
+- ### [Git - A Version Control System](https://www.wiki.wncc-iitb.org/index.php?title=Git)
+- ### [Github - A Code Hosting Platform](https://www.wiki.wncc-iitb.org/index.php?title=Github-tutorial)
+- ### [Open Source basics](https://www.wiki.wncc-iitb.org/index.php?title=Open_Source) 
 
 
 

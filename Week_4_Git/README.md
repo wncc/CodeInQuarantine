@@ -13,7 +13,7 @@ Follow the following resources to get acquainted with these important tools and 
 
 ## Resources
 
-- ### [Git - A Version Control System](https://www.wncc-iitb.org/wiki/index.php/Git)
+- ### [Git - A Version Control System](https://www.wiki.wncc-iitb.org/wiki/index.php?title=Git)
 - ### [Github - A Code Hosting Platform](https://www.wncc-iitb.org/wiki/index.php/Github-tutorial)
 - ### [Open Source basics](https://www.wncc-iitb.org/wiki/index.php/Open_Source) 
 

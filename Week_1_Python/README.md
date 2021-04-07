@@ -6,11 +6,11 @@ Python is one of the widely used programming languages in the world. Python is a
 
 ## Resources
 
- - ### [I am new to Python - How can I learn the basics of Python](https://www.wncc-iitb.org/wiki/index.php/Python_for_Beginners) 
+ - ### [I am new to Python - How can I learn the basics of Python](https://www.wiki.wncc-iitb.org/index.php/Python_for_Beginners) 
    _This is ideal for people who have either almost never coded in their lives, or were intimidated by CS101. Starting from what variables are, we'll see how Python can be used to automate many repetitive tasks in everyday life._
-- ### [I am an intermediate Python developer - How do I start using packages for real-life use cases](https://www.wncc-iitb.org/wiki/index.php/Intermediate_Python_Programming)
+- ### [I am an intermediate Python developer - How do I start using packages for real-life use cases](https://www.wiki.wncc-iitb.org/index.php/Intermediate_Python_Programming)
   _Once familiar with the basic concepts of Python, this tutorial will help you consolidate them & explore a wide variety of packages & modules for different use cases._
-- ### [I am an advanced Python developer - How do I learn deeper concepts in Python](https://www.wncc-iitb.org/wiki/index.php/Advance_Python_Programming)
+- ### [I am an advanced Python developer - How do I learn deeper concepts in Python](https://www.wiki.wncc-iitb.org/index.php/Advance_Python_Programming)
   _If you think you are quite comfortable with Python, this tutorial will help you to extend your knowlegde base by exploring some advance concepts like threading, socket programming, etc._
 
 
@@ -30,7 +30,7 @@ Scraping is essentially pulling text from an HTML page, programmatically. One ca
 
 Alternatively, you could use an Application Program Interface (API). This would essentially mean that you get the job done for you. You send a normal HTTP request to an API, and it returns data corresponding to what you asked for. This [Website](https://openweathermap.org/api) provides an API for the task.
 
-Check [this](http://wncc-iitb.org/wiki/index.php/Web_Scraping) out for an overview and resources for Web Scraping.
+Check [this](http://wiki.wncc-iitb.org/index.php/Web_Scraping) out for an overview and resources for Web Scraping.
 
 
 ##### Sample Input (Contents of input.txt)
